@@ -1,0 +1,7 @@
+We have script which will download, install and configure JAVA,JBOSS, ECLIPSE and Tomcat.
+
+Installation will be going on according user selected environment.
+Required files: To setup environment need to have install.sh, environment.sh, install.properties and softwares packages in the same directory.
+
+Usage: ./install.sh
+

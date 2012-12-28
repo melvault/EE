@@ -1,0 +1,6 @@
+<?xml version="1.0" ?> 
+<env>
+ <dev>TOMCAT=YES JAVA=YES JBOSS=YES MAVEN=YES</dev>
+ <test>TOMCAT=YES JAVA=YES JBOSS=YES</test>
+ <build>TOMCAT=YES JAVA=YES JBOSS=YES MAVEN=YES</build>
+</env>
